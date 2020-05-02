@@ -1,12 +1,4 @@
 {
-	"auth": {
-		"awsserverlessecommerf62153d7": {
-			"service": "Cognito",
-			"providerPlugin": "awscloudformation",
-			"dependsOn": [],
-			"customAuth": false
-		}
-	},
 	"api": {
 		"awsserverlessecommer": {
 			"service": "AppSync",
