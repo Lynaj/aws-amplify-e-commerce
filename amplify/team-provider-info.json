@@ -1,33 +1,19 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-serverlessecomerce-dev-11504-authRole",
-            "UnauthRoleArn": "arn:aws:iam::802822705345:role/amplify-serverlessecomerce-dev-11504-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::802822705345:role/amplify-serverlessecomerce-dev-11504-authRole",
+            "AuthRoleName": "amplify-awsserverlessecommer-dev-14022-authRole",
+            "UnauthRoleArn": "arn:aws:iam::802822705345:role/amplify-awsserverlessecommer-dev-14022-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::802822705345:role/amplify-awsserverlessecommer-dev-14022-authRole",
             "Region": "eu-central-1",
-            "DeploymentBucketName": "amplify-serverlessecomerce-dev-11504-deployment",
-            "UnauthRoleName": "amplify-serverlessecomerce-dev-11504-unauthRole",
-            "StackName": "amplify-serverlessecomerce-dev-11504",
-            "StackId": "arn:aws:cloudformation:eu-central-1:802822705345:stack/amplify-serverlessecomerce-dev-11504/0065aad0-8cba-11ea-9a9a-025bd1eb3930",
-            "AmplifyAppId": "d1ioo8vsuq2qit"
+            "DeploymentBucketName": "amplify-awsserverlessecommer-dev-14022-deployment",
+            "UnauthRoleName": "amplify-awsserverlessecommer-dev-14022-unauthRole",
+            "StackName": "amplify-awsserverlessecommer-dev-14022",
+            "StackId": "arn:aws:cloudformation:eu-central-1:802822705345:stack/amplify-awsserverlessecommer-dev-14022/892f2fa0-8cbd-11ea-bd47-06a619e5de86",
+            "AmplifyAppId": "d5tpfrfsmxpn8"
         },
         "categories": {
-            "function": {
-                "serverlessecomercee7c29b83e7c29b83CreateAuthChallenge": {},
-                "serverlessecomercee7c29b83e7c29b83CustomMessage": {
-                    "REDIRECTURL": "https://localhost/confirmation/",
-                    "EMAILSUBJECT": "HelloSubject",
-                    "EMAILMESSAGE": ""
-                },
-                "serverlessecomercee7c29b83e7c29b83DefineAuthChallenge": {},
-                "serverlessecomercee7c29b83e7c29b83VerifyAuthChallengeResponse": {
-                    "RECAPTCHASECRET": " 4FEjGU2VLxMjjbWyzQT3dDsb "
-                }
-            },
             "auth": {
-                "serverlessecomercee7c29b83e7c29b83": {
-                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"fbkeytochange\",\"client_secret\":\"fbsecrettochange\"},{\"ProviderName\":\"Google\",\"client_id\":\" 684337177183-ipar1t431bmu6sn70rpggniqo114dgrl.apps.googleusercontent.com \",\"client_secret\":\" 4FEjGU2VLxMjjbWyzQT3dDsb \"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amazontochange\",\"client_secret\":\"amazonsecrettochange\"}]"
-                }
+                "awsserverlessecommerf62153d7": {}
             }
         }
     }
