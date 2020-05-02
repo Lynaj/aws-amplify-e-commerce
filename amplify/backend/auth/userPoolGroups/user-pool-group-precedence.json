@@ -1,0 +1,18 @@
+[
+    {
+        "groupName": "partners",
+        "precedence": 1
+    },
+    {
+        "groupName": "customers",
+        "precedence": 2
+    },
+    {
+        "groupName": "administration",
+        "precedence": 3
+    },
+    {
+        "groupName": "support",
+        "precedence": 4
+    }
+]

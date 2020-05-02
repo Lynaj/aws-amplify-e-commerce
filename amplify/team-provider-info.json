@@ -10,6 +10,25 @@
             "StackName": "amplify-serverlessecomerce-dev-11504",
             "StackId": "arn:aws:cloudformation:eu-central-1:802822705345:stack/amplify-serverlessecomerce-dev-11504/0065aad0-8cba-11ea-9a9a-025bd1eb3930",
             "AmplifyAppId": "d1ioo8vsuq2qit"
+        },
+        "categories": {
+            "function": {
+                "serverlessecomercee7c29b83e7c29b83CreateAuthChallenge": {},
+                "serverlessecomercee7c29b83e7c29b83CustomMessage": {
+                    "REDIRECTURL": "https://localhost/confirmation/",
+                    "EMAILSUBJECT": "HelloSubject",
+                    "EMAILMESSAGE": ""
+                },
+                "serverlessecomercee7c29b83e7c29b83DefineAuthChallenge": {},
+                "serverlessecomercee7c29b83e7c29b83VerifyAuthChallengeResponse": {
+                    "RECAPTCHASECRET": " 4FEjGU2VLxMjjbWyzQT3dDsb "
+                }
+            },
+            "auth": {
+                "serverlessecomercee7c29b83e7c29b83": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"fbkeytochange\",\"client_secret\":\"fbsecrettochange\"},{\"ProviderName\":\"Google\",\"client_id\":\" 684337177183-ipar1t431bmu6sn70rpggniqo114dgrl.apps.googleusercontent.com \",\"client_secret\":\" 4FEjGU2VLxMjjbWyzQT3dDsb \"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"amazontochange\",\"client_secret\":\"amazonsecrettochange\"}]"
+                }
+            }
         }
     }
 }
