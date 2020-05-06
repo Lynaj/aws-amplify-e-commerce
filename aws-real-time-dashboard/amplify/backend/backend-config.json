@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"awsrealtimedashboard5b212804": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
